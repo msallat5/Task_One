@@ -1,4 +1,4 @@
-This project is a simple web page featuring directional buttons (up, down, left, right) styled with HTML and CSS. The buttons are functional, utilizing JavaScript to display alerts when clicked. The design and color scheme are inspired by a provided image.
+This project is a simple web page featuring directional buttons (up, down, left, right) styled with HTML and CSS. The buttons are functional, utilizing JavaScript to display alerts when clicked.
 
 HTML - CSS - JavaScript
 
